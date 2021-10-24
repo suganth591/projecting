@@ -1,1 +1,2 @@
+CORScredentials: "omit";
 hello
