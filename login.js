@@ -36,7 +36,7 @@ if(op==-1||op==-2){
 }else{
 if(!(passwords[op]).localeCompare(password)){
     console.log("Your password is correct");
-    window.location="https://cdn.jsdelivr.net/gh/suganth591/project/index.html";
+    window.location="https://cdn.jsdelivr.net/gh/suganth591/projects/index.html";
 }
 else{
     document.getElementById("inc").style.display="block";
